@@ -5,3 +5,5 @@ The Turkish president thinks that high interest rates cause inflation, contrary 
 In order to check that we have to model inflation rates with some variables. The most common view of the economic authorities is that the variables affecting the rates are currency exchange rates, and CDS(credit default swap). Of course, we will also add the funding rates variable, the president mentioned, to the model to compare with the other explanatory variables.
 
 Because the variables can be highly correlated with each other, we will prefer the random forest model. This algorithm also has a built-in function to compute the feature importance.
+
+The .docx file contains deem relevant information with respect to this repository.
